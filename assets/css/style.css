@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: 'Open Sans';
+}
+
+nav{
+  height: 75px;
+  font-family: 'Open Sans';
+}
+
+h1 {
+  font-size: 60px;
+  color: #707070;
+  margin-bottom: 77px;
+}
+
+.fondo {
+  background: var(--pink);
+  opacity: 1;
+}
+
+h5{
+  color: #373A3C;
+}
+
+.container {
+  margin-left: 85px;
+}
+
+.icon-section{
+  height: 170px;
+  background: var(--info);
+  margin-top: 118px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+footer{
+  height: 184px;
+  }
